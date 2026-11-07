@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="assets/xatcap-logo.png" alt="xatcap logo" width="180">
+	<img src="../assets/xatcap-logo.png" alt="xatcap logo" width="180">
 </p>
 
 # xatcap
